@@ -1,0 +1,1 @@
+# Localiza-o-de-Elementos-na-Tela---Pyautogui
